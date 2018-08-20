@@ -3,6 +3,8 @@
 # GITHUB SEARCH REPOS WITH REACT.JS
 
 > This project gives to you an app to show the github repositories from a user.
+> It's simple! Put the username on the search field and the app will return all public repositories from this user.
+> You can sort by forks, stars or by last updated.
 
 
 ## Environment setup
