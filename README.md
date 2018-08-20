@@ -34,6 +34,13 @@ npm run start
 http://localhost:3000/
 ```
 
+## ES6 Features
+
+ - Arrow functions to reduce the boilerplate of function
+ - Template Literals to have dynamic strings tha can be variables.
+ - Use of const to bind variables.
+
+
 ## License
 
 © 2018 cacuba
