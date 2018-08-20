@@ -1,0 +1,12 @@
+.repository > .row {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.repository p { text-align: left; }
+
+.repository-label {
+    font-weight: bold;
+}
