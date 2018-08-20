@@ -1,6 +1,6 @@
 
 
-# Project name
+# GITHUB SEARCH REPOS WITH REACT.JS
 
 > This project gives to you an app to show the github repositories from a user.
 
